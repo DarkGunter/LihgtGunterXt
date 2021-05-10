@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://media.giphy.com/media/sRGUfOYkLt5chUss87/giphy.gif" width="128" height="135"/>
-</p>
+
 
 # Lihgt Gunter
 Simple WhatsApp Bot for Andriod & pc

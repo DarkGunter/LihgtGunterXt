@@ -3,7 +3,7 @@
 # Lihgt Gunter
 Simple WhatsApp Bot for Andriod & pc
 
-BOT BY Smu330⃟꙰
+BOT BY nn
 
 ### FOR TERMUX USER
 ```bash

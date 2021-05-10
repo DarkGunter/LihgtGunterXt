@@ -7,7 +7,7 @@ Simple WhatsApp Bot for Andriod & pc
 
 BOT BY Smu330⃟꙰
 
-### FOR TERMUX USER馃挜
+### FOR TERMUX USER
 ```bash
 > pkg update && pkg upgrade
 > pkg install git -y

@@ -1,6 +1,6 @@
 
 
-# Lihgt Gunter
+# Light Gunter
 Simple WhatsApp Bot for Andriod & pc
 
 BOT BY nn

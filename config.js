@@ -13,7 +13,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'Dark Gunter\n     Lihgt Gunter ✨'
-global.author = '🔐𝐒𝐚𝐦𝐮𝟑𝟑𝟎👑'
+global.author = 'nn'
 
 global.multiplier = 69 // The higher, The harder levelup
 
